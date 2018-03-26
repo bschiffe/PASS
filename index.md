@@ -1,5 +1,4 @@
-## PASS 
-## Princeton Alumni Search and Statistics
+## PASS: Princeton Alumni Search and Statistics
 
 ### The Group:
 - Ben Schiffer
@@ -15,39 +14,39 @@ TA: Lance Goodridge
 ### Timeline
  
 March 17 (Saturday): 
-Design document submitted
-Heroku instance created
-Git running
+- Design document submitted
+- Heroku instance created
+- Git running
  
 March 25 (Sunday): 
-Get Django framework running
-Integrate PostgreSQL
-Install React
-Finalize interface design
+- Get Django framework running
+- Integrate PostgreSQL
+- Install React
+- Finalize interface design
  
 April 01 (Sunday): 
-Scrape LinkedIn of data 
-Implement rudimentary interface
+- Scrape LinkedIn of data 
+- Implement rudimentary interface
  
 April 08 (Sunday): 
-	Implement rudimentary Solr search function using Haystack
-	Clean and add initial dataset to database
-	Implement CAS login
-	Continue improving interface
+- Implement rudimentary Solr search function using Haystack
+- Clean and add initial dataset to database
+- Implement CAS login
+- Continue improving interface
  
 April 13 (Friday): 
-Prototype deadline
-Refine search to allow for major, year, etc.
-Continue improving interface
-Tweaks and bugfixes
+- Prototype deadline
+- Refine search to allow for major, year, etc.
+- Continue improving interface
+- Tweaks and bugfixes
  
 April 22 (Sunday): 
-Implement data analysis code
-Add statistics functionality to interface
+- Implement data analysis code
+- Add statistics functionality to interface
  
 April 27 (Friday): 
-Alpha test
-Tweaks and bugfixes
+- Alpha test
+- Tweaks and bugfixes
  
 May 3 - 4 (Sunday): 
 Beta test
