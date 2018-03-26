@@ -1,4 +1,4 @@
-# Princeton Alumni Search and Statistics
+## Princeton Alumni Search and Statistics
 
 ## The Group:
 - Ben Schiffer (bgs3@princeton.edu)
