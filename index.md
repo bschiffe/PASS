@@ -1,8 +1,6 @@
-## Hi Sandun
+# PASS - Princeton Alumni Search and Statistics
 
-I am the git god
-
-# The Group:
+## The Group:
 - Ben Schiffer
 - Sandun Bambarandage
 - Shirley Zhang
