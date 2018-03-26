@@ -20,21 +20,22 @@ TA: Lance Goodridge
  
 ### March 25 (Sunday): 
 - Get Django framework running
-- Integrate PostgreSQL
-- Install React
+- continue searching for data
 - Finalize interface design
  
 ### April 01 (Sunday): 
 - Scrape LinkedIn of data 
-- Implement rudimentary interface
+- Integrate PostgreSQL
+- Install React
  
 ### April 08 (Sunday): 
+- Implement rudimentary interface
 - Implement rudimentary Solr search function using Haystack
 - Clean and add initial dataset to database
 - Implement CAS login
-- Continue improving interface
  
 ### April 13 (Friday): 
+- Continue improving interface
 - Prototype deadline
 - Refine search to allow for major, year, etc.
 - Continue improving interface
