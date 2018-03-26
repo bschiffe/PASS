@@ -1,19 +1,19 @@
-# PASS: Princeton Alumni Search and Statistics
+## **PASS: Princeton Alumni Search and Statistics**
 
-### The Group:
-- Ben Schiffer
-- Sandun Bambarandage
-- Shirley Zhang
-- John Hallman
-- Daniel Braga
+## The Group:
+- Ben Schiffer (bgs3@princeton.edu)
+- Sandun Bambarandage (sandunb@princeton.edu)
+- Shirley Zhang (skzhang@princeton.edu)
+- John Hallman (hallman@princeton.edu)
+- Daniel Braga (dbraga@princeton.edu)
 
 TA: Lance Goodridge
 
 [Design Documents](https://docs.google.com/document/d/1-Ob-hlEVQ_2hPvsw-lY5rfAE4915R9ZAjlFFe03HkGs/edit?usp=sharing)
 
-### Timeline
+## Timeline
  
-#### March 17 (Saturday): 
+### March 17 (Saturday): 
 - Design document submitted
 - Heroku instance created
 - Git running
