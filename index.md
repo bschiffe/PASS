@@ -1,4 +1,4 @@
-## PASS: Princeton Alumni Search and Statistics
+# PASS: Princeton Alumni Search and Statistics
 
 ### The Group:
 - Ben Schiffer
@@ -13,7 +13,7 @@ TA: Lance Goodridge
 
 ### Timeline
  
-March 17 (Saturday): 
+#### March 17 (Saturday): 
 - Design document submitted
 - Heroku instance created
 - Git running
@@ -49,13 +49,13 @@ April 27 (Friday):
 - Tweaks and bugfixes
  
 May 3 - 4 (Sunday): 
-Beta test
-Tweaks and bug fixes
+- Beta test
+- Tweaks and bug fixes
  
 May 9 - 10 (Sunday): 
-Demo days
-Complete presentation
+- Demo days
+- Complete presentation
  
 May 13  (Sunday): 
-Final Project deadline
-Complete project :D
+- Final Project deadline
+- Complete project :D
