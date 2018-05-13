@@ -31,7 +31,7 @@ TA: Lance Goodridge
 - Install React
  
 ### April 08 (Sunday): 
-- Implement rudimentary interface [checkbox:checked]
+- Implement rudimentary interface \\[x]
 - Implement rudimentary Solr search function using Haystack
 - Clean and add initial dataset to database
 - Implement CAS login
