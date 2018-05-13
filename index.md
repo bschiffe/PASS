@@ -1,6 +1,6 @@
 ## Princeton Alumni Search and Statistics
 
-http://pass333.herokuapp.com/
+Final website! http://pass333.herokuapp.com/
 
 ## The Group:
 - Ben Schiffer (bgs3@princeton.edu)
@@ -31,7 +31,7 @@ TA: Lance Goodridge
 - Install React
  
 ### April 08 (Sunday): 
-- Implement rudimentary interface
+- Implement rudimentary interface [checkbox:checked]
 - Implement rudimentary Solr search function using Haystack
 - Clean and add initial dataset to database
 - Implement CAS login
